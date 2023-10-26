@@ -1,0 +1,10 @@
+.pokemonCard{
+    border:1px solid black;
+    width: 500px;
+}
+.pokemonCard img{
+    width:350px;
+}
+.pokemonCard h1{
+    color:blue;
+}
